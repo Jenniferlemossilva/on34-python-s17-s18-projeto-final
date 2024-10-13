@@ -48,6 +48,9 @@ Utilizamos o **Tableau** para criar visualizações interativas e dinâmicas a p
 
 👉 https://public.tableau.com/views/VIOLNCIASOFRIDAPORGNERO-JenniferLemos_ProjetoFinal/IdadexViolnciaporIdentidadedeGnero?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## 📊 **Apresentação Final **
+https://www.canva.com/design/DAGStDwbnfA/w3tmxQLPC0NrQBTMlJ-fWg/edit?utm_content=DAGStDwbnfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 💡 **Instituição**
 
 Este projeto foi desenvolvido em colaboração com a **<span style="color:pink">Reprograma</span>**.
